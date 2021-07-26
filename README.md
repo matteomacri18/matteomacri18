@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center"> Matteo Macri </h1>
+<h4 align="center">CS studunt at Unife</h4>
 
-<!--
-**matteomacri18/matteomacri18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/matteo-macr%C3%AD-997060193/" target="blank">
+    linkedin
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<h2>Skills</h2>
+<ul>
+  <li>C</li>
+  <li>Java</li>
+  <li>Python</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>GitHub Stats</h2>
