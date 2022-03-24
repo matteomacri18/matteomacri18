@@ -14,5 +14,3 @@
   <li>Python</li>
   <li>C</li>
 </ul>
-
-<h2>GitHub Stats</h2>
