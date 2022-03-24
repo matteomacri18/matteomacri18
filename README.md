@@ -9,9 +9,10 @@
 
 <h2>Skills</h2>
 <ul>
-  <li>C</li>
+  <li>Kotlin</li>
   <li>Java</li>
   <li>Python</li>
+  <li>C</li>
 </ul>
 
 <h2>GitHub Stats</h2>
